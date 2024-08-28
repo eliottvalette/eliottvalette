@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eliottvalette&label=Profile%20views&color=0e75b6&style=flat" alt="eliottvalette" /> </p>
 
-- 🔭 I’m currently working on **ISIC-2024 Kaggle competition and business oriented ML**
+- 🔭 I’m currently participating in the **ISIC-2024 Kaggle competition and exploring business-oriented machine learning applications.**
 
-- 🌱 I’m currently learning **C, Cloud compute and fine tuning my knowledge on AI**
+- 🌱 I’m currently learning **C, cloud computing, and fine-tuning my knowledge in AI.**
 
 - 📫 How to reach me **eliottvalette@gmail.com**
 
