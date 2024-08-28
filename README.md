@@ -6,6 +6,10 @@
 - 🔭 I’m currently participating in the **ISIC-2024 Kaggle competition and exploring business-oriented machine learning applications.**
 
 - 🌱 I’m currently learning **C, cloud computing, and fine-tuning my knowledge in AI.**
+  
+- 💻 Last year, **I gained experience in web development and deployed an app**
+
+- 🎮 In my free time, I create games to train AI using **Reinforcement Learning.**
 
 - 📫 How to reach me **eliottvalette@gmail.com**
 
