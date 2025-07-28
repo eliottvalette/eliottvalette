@@ -18,17 +18,6 @@ Core interests:
 
 ---
 
-## Current & Recent Projects
-
-| Project | Highlights | Stack |
-|---------|------------|-------|
-| **ISIC 2024 Melanoma Detection** | Ensemble of CNNs + Vision Transformers with heavy data‑centric augmentation pipeline. | PyTorch, Albumentations, Weights & Biases |
-| **Quadruped‑RL Simulator** | Lightweight NumPy/Pygame physics engine; actor–critic agent learns locomotion. Interactive 3‑D viewer built with Three.js and served via Next.js. | PyTorch, Three.js, Next.js |
-| **Generative UI Agents** | Deployable React components that wrap LLM‑powered agents; supports streaming responses, tool calling, and RAG. Integrated with a LangChain‑backed server for high‑throughput inference. | React, LangChain, FastAPI, WebSockets |
-| **ML Starter‑Kit** | Cookie‑cutter template: data ↔ feature store ↔ training ↔ evaluation ↔ Dockerised inference service with GitHub Actions for CI. | scikit‑learn, MLflow, Docker |
-
----
-
 ## Selected Skills
 
 | Domain | Tools & Frameworks |
@@ -39,13 +28,6 @@ Core interests:
 | **Data & Viz** | pandas, NumPy, seaborn/Matplotlib, Plotly |
 | **MLOps / DevOps** | Docker, Kubernetes (basics), MLflow, GitHub Actions |
 | **Misc.** | LaTeX, C fundamentals, VBA |
-
----
-
-## Talks & Writing
-
-* **“Bringing RL to the Browser”** — lightning talk at the HEC AI Club, showing live training visualised in WebGL.  
-* Contributor to *Towards Data Science* on topics such as agent tool‑use and 3‑D web visualisation for ML experiments.
 
 ---
 
