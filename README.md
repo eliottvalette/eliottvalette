@@ -1,17 +1,63 @@
-<h1 align="center">Hi 👋, I'm Eliott Valette</h1>
-<h3 align="center">An HEC Paris/ENSAE student specializing in Deep Learning</h3>
+# Eliott Valette
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eliottvalette&label=Profile%20views&color=0e75b6&style=flat" alt="eliottvalette" /> </p>
+**Graduate Student — HEC Paris × ENSAE**  
+Machine‑Learning & Front‑End Enthusiast
 
-- 🔭 I’m currently participating in the **ISIC-2024 Kaggle competition and exploring business-oriented machine learning applications.**
-  
-- 🎮 In my free time, I create games to train AI using **Deepl Reinforcement Learning.**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://kaggle.com/eliottvalette" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="eliottvalette" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/eliottvalette" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="eliottvalette" height="30" width="40" /></a>
-</p>
+## Profile
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+I merge a quantitative background in mathematics and economics with hands‑on expertise in both **AI research** and **advanced web engineering**. My dual curriculum (HEC for business, ENSAE for statistics) lets me drive projects from prototype to production—whether the end product is a predictive model, an interactive 3‑D demo, or a full‑stack ML platform.
+
+Core interests:
+
+* Representation learning for vision and tabular data  
+* Reinforcement learning and embodied AI  
+* High‑performance, immersive web apps (React / Next.js / Three.js)  
+* End‑to‑end ML pipelines, CI/CD and MLOps
+
+---
+
+## Current & Recent Projects
+
+| Project | Highlights | Stack |
+|---------|------------|-------|
+| **ISIC 2024 Melanoma Detection** | Ensemble of CNNs + Vision Transformers with heavy data‑centric augmentation pipeline. | PyTorch, Albumentations, Weights & Biases |
+| **Quadruped‑RL Simulator** | Lightweight NumPy/Pygame physics engine; actor–critic agent learns locomotion. Interactive 3‑D viewer built with Three.js and served via Next.js. | PyTorch, Three.js, Next.js |
+| **Generative UI Agents** | Deployable React components that wrap LLM‑powered agents; supports streaming responses, tool calling, and RAG. Integrated with a LangChain‑backed server for high‑throughput inference. | React, LangChain, FastAPI, WebSockets |
+| **ML Starter‑Kit** | Cookie‑cutter template: data ↔ feature store ↔ training ↔ evaluation ↔ Dockerised inference service with GitHub Actions for CI. | scikit‑learn, MLflow, Docker |
+
+---
+
+## Selected Skills
+
+| Domain | Tools & Frameworks |
+|--------|--------------------|
+| **Programming** | Python (advanced), TypeScript/JavaScript, SQL |
+| **ML / DL** | PyTorch, TensorFlow/Keras, scikit‑learn, LightGBM |
+| **Front‑End & 3‑D** | Next.js, React, Three.js, WebGL, Tailwind CSS |
+| **Data & Viz** | pandas, NumPy, seaborn/Matplotlib, Plotly |
+| **MLOps / DevOps** | Docker, Kubernetes (basics), MLflow, GitHub Actions |
+| **Misc.** | LaTeX, C fundamentals, VBA |
+
+---
+
+## Talks & Writing
+
+* **“Bringing RL to the Browser”** — lightning talk at the HEC AI Club, showing live training visualised in WebGL.  
+* Contributor to *Towards Data Science* on topics such as agent tool‑use and 3‑D web visualisation for ML experiments.
+
+---
+
+## Contact
+
+|  |  |
+|--|--|
+| E‑mail | `eliott.valette@hec.edu` |
+| LinkedIn | <https://www.linkedin.com/in/eliott-valette/> |
+| Kaggle | <https://www.kaggle.com/eliottvalette> |
+| LeetCode | <https://leetcode.com/eliottvalette/> |
+
+---
+
+*Last updated: July 2025*
