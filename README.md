@@ -1,45 +1,35 @@
 # Eliott Valette
+Graduate student - HEC Paris x ENSAE  
+ML product builder | Bio/health ML, real-time web
 
-**Graduate Student — HEC Paris × ENSAE**  
-Machine‑Learning & Front‑End Enthusiast
+I build ML products end to end, with a focus on bio/health R&D workflows and production-ready deployment. Recent work includes protein-focused ML pipelines and genomics-driven modeling. RL and 3D simulation are personal interests; I also ship interactive web experiences with Next.js and Three.js. Pragmatic deployment: Docker on Ubuntu, CI/CD, and reproducible pipelines.
 
----
+## Highlights
+- [MCP-HACKTHON](https://github.com/eliottvalette/MCP-HACKTHON): MCP-first Clash Royale demo for Mistral AI's MCP Hackathon, with a Next.js UI and an MCP agent playing in real time.
+- Stealth bio/health ML product work (protein-focused ML pipelines, genomics-driven modeling, production deployment).
 
-## Profile
+## Selected Projects
+- [3D-Physics-Engine](https://github.com/eliottvalette/3D-Physics-Engine): Python rigid-body physics + RL sandbox with a quadruped agent.
+- [Poker-GTO](https://github.com/eliottvalette/Poker-GTO): CFR+ solver with a PyTorch policy approximation and a Next.js UI.
+- [Physics-Engine-in-C](https://github.com/eliottvalette/Physics-Engine-in-C): C-based multi-pendulum simulations with CSV outputs and Python visualization.
+- [ISIC-2024-Hackathon](https://github.com/eliottvalette/ISIC-2024-Hackathon): Skin lesion classification using CNNs and gradient boosting.
+- [Fighting-Tanks-Reinforcement-Learning](https://github.com/eliottvalette/Fighting-Tanks-Reinforcement-Learning): Multi-agent RL tank battle environment.
 
-I merge a quantitative background in mathematics and economics with hands‑on expertise in both **AI research** and **advanced web engineering**. My dual curriculum (HEC for business, ENSAE for statistics) lets me drive projects from prototype to production—whether the end product is a predictive model, an interactive 3‑D demo, or a full‑stack ML platform.
+## Focus
+- ML productization, evaluation, and deployment (bio/health)
+- 3D simulation and physics
+- Real-time web apps (Next.js, React, Three.js)
 
-Core interests:
-
-* Representation learning for vision and tabular data  
-* Reinforcement learning and embodied AI  
-* High‑performance, immersive web apps (React / Next.js / Three.js)  
-* End‑to‑end ML pipelines, CI/CD and MLOps
-
----
-
-## Selected Skills
-
-| Domain | Tools & Frameworks |
-|--------|--------------------|
-| **Programming** | Python (advanced), TypeScript/JavaScript, SQL |
-| **ML / DL** | PyTorch, TensorFlow/Keras, scikit‑learn, LightGBM |
-| **Front‑End & 3‑D** | Next.js, React, Three.js, WebGL, Tailwind CSS |
-| **Data & Viz** | pandas, NumPy, seaborn/Matplotlib, Plotly |
-| **MLOps / DevOps** | Docker, Kubernetes (basics), MLflow, GitHub Actions |
-| **Misc.** | LaTeX, C fundamentals, VBA |
-
----
+## Stack
+- Python, TypeScript/JavaScript, SQL
+- PyTorch, TensorFlow/Keras, scikit-learn, LightGBM
+- Next.js, React, Three.js, WebGL, Tailwind CSS
+- Docker, Linux (Ubuntu), MLflow, GitHub Actions
 
 ## Contact
+- Email: eliott.valette@hec.edu
+- LinkedIn: https://www.linkedin.com/in/eliott-valette/
+- Kaggle: https://www.kaggle.com/eliottvalette
+- LeetCode: https://leetcode.com/eliottvalette/
 
-|  |  |
-|--|--|
-| E‑mail | `eliott.valette@hec.edu` |
-| LinkedIn | <https://www.linkedin.com/in/eliott-valette/> |
-| Kaggle | <https://www.kaggle.com/eliottvalette> |
-| LeetCode | <https://leetcode.com/eliottvalette/> |
-
----
-
-*Last updated: July 2025*
+Last updated: February 2026
