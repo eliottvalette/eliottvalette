@@ -1,8 +1,38 @@
-# Eliott Valette
-Graduate student - HEC Paris x ENSAE  
-ML product builder | Bio/health ML, real-time web
-
-I build ML products end to end, with a focus on bio/health R&D workflows and production-ready deployment. Recent work includes protein-focused ML pipelines and genomics-driven modeling. RL and 3D simulation are personal interests; I also ship interactive web experiences with Next.js and Three.js. Pragmatic deployment: Docker on Ubuntu, CI/CD, and reproducible pipelines.
+```
+                          +=+==-                                      │  Eliott Valette
+                      %%%%%%%%%##**+                                  │  Graduate student -
+                    %%%%%%%%%@%%%%%#*                                 │  HEC Paris x ENSAE
+                  %%%%%%%%%%%%%@@@%%%#                                │  ML product builder |
+                %##%%%%%%@%%%%@@%%@@@%#                               │  Bio/health ML,
+             %%%%%%%%@%@%@%%@%%@@@@@@%%                               │  real-time web
+            %%%%%%%%%%%@@%%@%@@@@@@@@@%#                              │  I build ML products
+             #%%@%%%@%@@@@@@@@@@@@@@@@%#                              │  end to end, with a
+            #%%@@%@@@@@@@@@@@@@%*#*%@@@%                              │  focus on bio/health
+             %%%%@@@@@%##*##%%%*****%@@%%                             │  R&D workflows and
+                 ***#####*++*##++-**#%%%%                             │  production-ready
+                  +#%%%#+++***#**=***###*                             │  deployment. Recent
+                  ++#***++***#####***++**+                            │  work includes
+                   ==+#*++***#####****++++-::                         │  protein-focused ML
+                   +*##****#########******=::::::                     │  pipelines and
+                       ##**####%%%###***++::::::::::::                │  genomics-driven
+                        ++*#%%%%%####***+-::::::::::::::              │  modeling. RL and 3D
+                         *%%*=-*######**+::::::::::::::::             │  simulation are
+                         ::::-+++*#####+-::::::-:::::::::::           │  personal interests;
+                        ::::-+++=%%###+-:::::-::::::::::::::          │  I also ship
+                      ::::-======*%#*==-:-::=::::::::::::::::         │  interactive web
+                     ::::-==-==-====+=----::=::::::::-:::::::         │  experiences with
+       #########*** :::-------=--===------:-=:-::::--::::::-::        │  Next.js and
+         *#######*#%-::-------=----:--------+=---#%#-::::::---        │  Three.js. Pragmatic
+          *###%%##*#%---=-----=---::-:------=-::-%%%-:-:::-=---       │  deployment: Docker
+          *+*%%%###*#%=-=+--------:-:---==--=:::::::::::::==--=       │  on Ubuntu, CI/CD,
+     :-::---*#%%%%#*-*%===+-:---------=+===-=:::::-====-::+==-=       │  and reproducible
+     ==**+*#=*#%%%%%*+#%#**+----------------=:-======++++++====*      │  pipelines.
+     =+##*#%==#%%%%%%#**%*==-----------------=======++++**++===+      │
+==--:=*###*%==+#%%%%%%%%%%===---------------++++=++++++***+++==+      │
+#%#*=+*###*%====%%%%%%%%%%%+==------=========++++==-=++******++=+     │
+*****+*****#=====#%%%%%%%%%%==============++++==--===+#****+++++*     │
++#%*+*+**##%+*****#%%%%%%##+++=-:-=+++++++++=-+*==+*=+##=+*%@%%%%     │
+```
 
 ## Highlights
 - [MISTRAL-AI-MCP-HACKATHON](https://github.com/eliottvalette/MISTRAL-AI-MCP-HACKATHON): MCP-first Clash Royale demo for Mistral AI's MCP Hackathon, with a Next.js UI and an MCP agent playing in real time.
