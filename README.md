@@ -1,45 +1,38 @@
-<pre aria-label="Four-tone ASCII portrait">
-<span class="pl-c">                          fcuvUQZ                                     </span>
-<span class="pl-c">                      lI--&lt;I;l&gt;-)\jf                                  </span>
-<span class="pl-c">                    il!ll;iiI::Iii~}\                                 </span>
-<span class="pl-c">                 &quot;i&gt;i&gt;l:!!!!lI;;,,ll_{                                </span>
-<span class="pl-c">                !&lt;++illI!I!l;I;,;:::,&gt;_                               </span>
-<span class="pl-c">              +&lt;l&lt;li!:!l:,lI</span><span class="pl-s">,</span><span class="pl-en">;</span><span class="pl-c">;:::,&quot;:I~~                              </span>
-<span class="pl-c">            il:!llliI!&lt;</span><span class="pl-k">,;!;I!:&quot;</span><span class="pl-c">&quot;&quot;</span><span class="pl-en">^&quot;&quot;</span><span class="pl-c">,:!&lt;                              </span>
-<span class="pl-c">            &gt;~&gt;!:;;I</span><span class="pl-k">Il,:^^^^`^&quot;^^</span><span class="pl-c">^</span><span class="pl-k">^^</span><span class="pl-en">&quot;&quot;</span><span class="pl-c">I_                              </span>
-<span class="pl-c">            !l;:,</span><span class="pl-k">&quot;:&quot;^I::^`^```^,|r[`&quot;,</span><span class="pl-en">,</span><span class="pl-c">&gt;                              </span>
-<span class="pl-c">            &lt;&gt;iI;</span><span class="pl-k">&quot;^^^^,&gt;+?_l,,l}]]\[,&quot;</span><span class="pl-en">,</span><span class="pl-c">i!                             </span>
-<span class="pl-c">             I</span><span class="pl-k">&gt;[~&lt;~+&gt;~]}[?(j[&gt;[nC</span><span class="pl-c">mf|&gt;</span><span class="pl-k">,:</span><span class="pl-c">l&lt;                             </span>
-<span class="pl-c">               </span><span class="pl-k">  xf1!;+~[</span><span class="pl-c">jr\|}</span><span class="pl-k">-</span><span class="pl-c">|(Y|\{&lt;l</span><span class="pl-en">&lt;</span><span class="pl-c">_                             </span>
-<span class="pl-c">              </span><span class="pl-k">    f1</span><span class="pl-c">}[</span><span class="pl-k">+{xr/|/{??1r/\</span><span class="pl-c">//|</span><span class="pl-k">}</span><span class="pl-c">)|                            </span>
-<span class="pl-c">               </span><span class="pl-s"> </span><span class="pl-c">  </span><span class="pl-k">nXx{|1nf|1){[_+</span><span class="pl-en">?</span><span class="pl-k">)|/t</span><span class="pl-c">ftfv                            </span>
-<span class="pl-c">               </span><span class="pl-s"> </span><span class="pl-c">  </span><span class="pl-k"> Xu/]/tt|}{{[_+</span><span class="pl-en">_</span><span class="pl-k">]{)\</span><span class="pl-c">tfffz*#&amp;%@                      </span>
-<span class="pl-c">                   </span><span class="pl-k">  !_]+])}?__~&gt;&lt;+?{(\/</span><span class="pl-en">/</span><span class="pl-c">tmho*#&amp;%BB@$                 </span>
-<span class="pl-c">                   </span><span class="pl-en"> </span><span class="pl-k">   ))/)[_&lt;&gt;i!&lt;+?})|/j</span><span class="pl-c">Ubhoo*#M&amp;8%B@@               </span>
-<span class="pl-c">                    </span><span class="pl-k">    xj}~i~)+_??]}{)|fZk</span><span class="pl-en">ha*#</span><span class="pl-c">MMWW&amp;&amp;8%B@             </span>
-<span class="pl-c">                        </span><span class="pl-k"> _ncOmYr(}[[[[}}Jd</span><span class="pl-en">ha**Mobk</span><span class="pl-c">o*</span><span class="pl-en">*</span><span class="pl-c">*oo&amp;8            </span>
-<span class="pl-c">                        *</span><span class="pl-k">dddwUruX[}}[[}Ymb</span><span class="pl-en">bo*hOh###***</span><span class="pl-c">*oaoW           </span>
-<span class="pl-c">                       &amp;*</span><span class="pl-k">kdwUznvJ+I_]1YOpq</span><span class="pl-en">dabm**#*oooo</span><span class="pl-c">aahhkWQ         </span>
-<span class="pl-c">                     W*okq0</span><span class="pl-en">XLYL</span><span class="pl-k">LCt![uzQmq</span><span class="pl-en">mdbUhoaoahhokpbk</span><span class="pl-c">kbbk         </span>
-<span class="pl-c">       tnxt]         *bbp</span><span class="pl-en">ZCJ0C</span><span class="pl-k">Y</span><span class="pl-en">OC</span><span class="pl-k">XYcz0Z</span><span class="pl-en">mwwdqJkddhbkamwdbhkbw</span><span class="pl-c">bm        </span>
-<span class="pl-c">       &gt;?-_+++_-?[~&quot;oo</span><span class="pl-en">pZZQQ0OQX</span><span class="pl-k">0</span><span class="pl-en">0L</span><span class="pl-k">QQw</span><span class="pl-en">0mOwwpwuwmppkpZwpdhhbdmq</span><span class="pl-c">p        </span>
-<span class="pl-c">         </span><span class="pl-en">}?+~</span><span class="pl-c">~~~~[{iL</span><span class="pl-s">k</span><span class="pl-en">p0UQQmmOJ0QOmdwqZmwwqmvYmpw;il0kodphqQO</span><span class="pl-s">m</span><span class="pl-c">L       </span>
-<span class="pl-c">         </span><span class="pl-en">]()+</span><span class="pl-c">~~~~~}{!</span><span class="pl-s">U</span><span class="pl-en">qZJCQZmZC0QOqpqqQqOZwmUQbhp_}\wpdkhk0JO</span><span class="pl-s">0</span><span class="pl-c">L       </span>
-<span class="pl-c">          </span><span class="pl-k">{t|~&lt;&lt;~~](</span><span class="pl-c">{</span><span class="pl-en">izO</span><span class="pl-k">J</span><span class="pl-en">vCOmmQO0ZqqqQQCcY0ZJ</span><span class="pl-k">d</span><span class="pl-en">ao*</span><span class="pl-k">*</span><span class="pl-c">oo</span><span class="pl-en">**oohbUJQQ</span><span class="pl-c">U       </span>
-<span class="pl-c">     qwqpQQ</span><span class="pl-k">Zj{&lt;&lt;&lt;&lt;~|O\</span><span class="pl-en">lju</span><span class="pl-k">v</span><span class="pl-en">jLpZ0ZZZwwZQYxuvUZC</span><span class="pl-k">k</span><span class="pl-en">**wCUXzcunQpuXJL</span><span class="pl-c">Y       </span>
-<span class="pl-c">     Xz{[/{-X</span><span class="pl-k">(]&lt;&lt;&lt;&lt;~</span><span class="pl-en">{x</span><span class="pl-k">{</span><span class="pl-en">;]}</span><span class="pl-k">1</span><span class="pl-en">uZZOmwmmwmZZZ</span><span class="pl-k">Z</span><span class="pl-en">Z</span><span class="pl-k">w</span><span class="pl-en">wLqCYYYXzvunxjjuzYJU</span><span class="pl-c">t      </span>
-<span class="pl-c">j#   X</span><span class="pl-en">n?</span><span class="pl-k">_(</span><span class="pl-en">-iUY</span><span class="pl-k">_&gt;&lt;&lt;&lt;&lt;&lt;+[jl</span><span class="pl-en">fXYCOmwwZZZmOOO0ZwwLzX</span><span class="pl-k">zXzccuxjt|</span><span class="pl-en">}xxvXX</span><span class="pl-c">r      </span>
-<span class="pl-en">JY</span><span class="pl-s">U0</span><span class="pl-c">qJ</span><span class="pl-en">/-</span><span class="pl-k">-}</span><span class="pl-en">}&lt;YL</span><span class="pl-k">n_&gt;&gt;&gt;&lt;&lt;&lt;&lt;</span><span class="pl-en">&lt;</span><span class="pl-k">&gt;InXY</span><span class="pl-en">LmmmZZZZOQQQ0QJv</span><span class="pl-k">nvvcvvuuxt\</span><span class="pl-en">(</span><span class="pl-k">/</span><span class="pl-en">ffxvvx</span><span class="pl-c">      </span>
-<span class="pl-en">&lt;&gt;</span><span class="pl-s">~)</span><span class="pl-c">Xu</span><span class="pl-en">\]</span><span class="pl-k">]}</span><span class="pl-en">)&gt;zY</span><span class="pl-k">YY~i&gt;&lt;&lt;&lt;&lt;</span><span class="pl-en">&lt;</span><span class="pl-k">&lt;&lt;&gt;nz</span><span class="pl-en">YQOO00QJYXUUYYzc</span><span class="pl-k">vvuvLC0Jut\</span><span class="pl-en">\</span><span class="pl-k">\</span><span class="pl-en">|(|rnv</span><span class="pl-c">j     </span>
-<span class="pl-k">//\\1r/</span><span class="pl-en">)</span><span class="pl-k">1{</span><span class="pl-en">1~z</span><span class="pl-k">XXXc-&gt;&gt;&lt;&lt;&lt;&lt;&lt;&lt;&gt;iXY</span><span class="pl-en">YUUUYYUU</span><span class="pl-k">YXzcunnvJQOZzC</span><span class="pl-en">Jx</span><span class="pl-k">]</span><span class="pl-en">1(1|rvxxu</span><span class="pl-c">}     </span>
-<span class="pl-k">r</span><span class="pl-en">]i)</span><span class="pl-k">r|f)1[~</span><span class="pl-en">!r</span><span class="pl-k">///\/+&lt;&lt;&lt;&lt;&lt;&lt;_{vnfYQaZUurrjjjrrrLL</span><span class="pl-en">n\XUj</span><span class="pl-k">\Xr][z</span><span class="pl-en">r{!,IlI</span><span class="pl-c">:     </span>
-</pre>
-
 ```ini
-[eliottvalette]
-status = "Graduate student - HEC Paris x ENSAE"
-role = "ML product builder"
-focus = "Bio/health ML, real-time web"
+                          fcuvUQZ                                      │  n="Eliott Valette"
+                      lI--<I;l>-)\jf                                   │  grad="student"
+                    il!ll;iiI::Iii~}\                                  │  s="HEC x ENSAE"
+                 `i>i>l:!!!!lI;;,,ll_{                                 │  ml="product builder"
+                !<++illI!I!l;I;,;:::,>_                                │  f="Bio/health ML"
+              +<l<li!:!l:,lI,;;:::,`:I~~                               │  web="real-time"
+            il:!llliI!<,;!;I!:```^``,:!<
+            >~>!:;;IIl,:^^^^`^`^^^^^``I_
+            !l;:,`:`^I::^`^```^,|r[``,,>
+            <>iI;`^^^^,>+?_l,,l}]]\[,`,i!
+             I>[~<~+>~]}[?(j[>[nCmf|>,:l<
+                 xf1!;+~[jr\|}-|(Y|\{<l<_
+                  f1}[+{xr/|/{??1r/\//|})|
+                  nXx{|1nf|1){[_+?)|/tftfv
+                   Xu/]/tt|}{{[_+_]{)\tfffz*#&%@
+                     !_]+])}?__~><+?{(\//tmho*#&%BB@$
+                       ))/)[_<>i!<+?})|/jUbhoo*#M&8%B@@
+                        xj}~i~)+_??]}{)|fZkha*#MMWW&&8%B@
+                         _ncOmYr(}[[[[}}Jdha**Mobko***oo&8
+                        *dddwUruX[}}[[}Ymbbo*hOh###****oaoW
+                       &*kdwUznvJ+I_]1YOpqdabm**#*ooooaahhkWQ
+                     W*okq0XLYLLCt![uzQmqmdbUhoaoahhokpbkkbbk
+       tnxt]         *bbpZCJ0CYOCXYcz0ZmwwdqJkddhbkamwdbhkbwbm
+       >?-_+++_-?[~`oopZZQQ0OQX00LQQw0mOwwpwuwmppkpZwpdhhbdmqp
+         }?+~~~~~[{iLkp0UQQmmOJ0QOmdwqZmwwqmvYmpw;il0kodphqQOmL
+         ]()+~~~~~}{!UqZJCQZmZC0QOqpqqQqOZwmUQbhp_}\wpdkhk0JO0L
+          {t|~<<~~]({izOJvCOmmQO0ZqqqQQCcY0ZJdao**oo**oohbUJQQU
+     qwqpQQZj{<<<<~|O\ljuvjLpZ0ZZZwwZQYxuvUZCk**wCUXzcunQpuXJLY
+     Xz{[/{-X(]<<<<~{x{;]}1uZZOmwmmwmZZZZZwwLqCYYYXzvunxjjuzYJUt
+j#   Xn?_(-iUY_><<<<<+[jlfXYCOmwwZZZmOOO0ZwwLzXzXzccuxjt|}xxvXXr
+JYU0qJ/--}}<YLn_>>><<<<<>InXYLmmmZZZZOQQQ0QJvnvvcvvuuxt\(/ffxvvx
+<>~)Xu\]]})>zYYY~i><<<<<<<>nzYQOO00QJYXUUYYzcvvuvLC0Jut\\\|(|rnvj
+//\\1r/)1{1~zXXXc->><<<<<<>iXYYUUUYYUUYXzcunnvJQOZzCJx]1(1|rvxxu}
+r]i)r|f)1[~!r///\/+<<<<<<_{vnfYQaZUurrjjjrrrLLn\XUj\Xr][zr{!,IlI:
 ```
 
 I build ML products end to end, with a focus on bio/health R&D workflows and production-ready deployment. Recent work includes protein-focused ML pipelines and genomics-driven modeling. RL and 3D simulation are personal interests; I also ship interactive web experiences with Next.js and Three.js. Pragmatic deployment: Docker on Ubuntu, CI/CD, and reproducible pipelines.
