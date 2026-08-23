@@ -1,6 +1,8 @@
-# Eliott Valette
-Graduate student - HEC Paris x ENSAE  
-ML product builder | Bio/health ML, real-time web
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/profile-dark-v4.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/profile-light-v4.svg">
+  <img src="assets/profile-light-v4.svg" alt="ASCII profile card for Eliott Valette">
+</picture>
 
 I build ML products end to end, with a focus on bio/health R&D workflows and production-ready deployment. Recent work includes protein-focused ML pipelines and genomics-driven modeling. RL and 3D simulation are personal interests; I also ship interactive web experiences with Next.js and Three.js. Pragmatic deployment: Docker on Ubuntu, CI/CD, and reproducible pipelines.
 
