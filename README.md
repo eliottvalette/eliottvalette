@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/profile-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/profile-light.svg">
-  <img src="assets/profile-light.svg" alt="ASCII profile card for Eliott Valette">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/profile-dark-v3.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/profile-light-v3.svg">
+  <img src="assets/profile-light-v3.svg" alt="ASCII profile card for Eliott Valette">
 </picture>
 
 I build ML products end to end, with a focus on bio/health R&D workflows and production-ready deployment. Recent work includes protein-focused ML pipelines and genomics-driven modeling. RL and 3D simulation are personal interests; I also ship interactive web experiences with Next.js and Three.js. Pragmatic deployment: Docker on Ubuntu, CI/CD, and reproducible pipelines.
