@@ -4,6 +4,10 @@
   <img src="assets/profile-light-v4.svg" alt="ASCII profile card for Eliott Valette">
 </picture>
 
+<br>
+
+## VALETTE Eliott
+
 I build ML products end to end, with a focus on bio/health R&D workflows and production-ready deployment. Recent work includes protein-focused ML pipelines and genomics-driven modeling. RL and 3D simulation are personal interests; I also ship interactive web experiences with Next.js and Three.js. Pragmatic deployment: Docker on Ubuntu, CI/CD, and reproducible pipelines.
 
 ## Highlights
