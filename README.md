@@ -26,12 +26,6 @@ I build ML products end to end, with a focus on bio/health R&D workflows and pro
 - 3D simulation and physics
 - Real-time web apps (Next.js, React, Three.js)
 
-## Stack
-- Python, TypeScript/JavaScript, SQL
-- PyTorch, TensorFlow/Keras, scikit-learn, LightGBM
-- Next.js, React, Three.js, WebGL, Tailwind CSS
-- Docker, Linux (Ubuntu), MLflow, GitHub Actions
-
 ## Contact
 - Email: eliott.valette@hec.edu
 - LinkedIn: https://www.linkedin.com/in/eliott-valette/
