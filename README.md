@@ -1,32 +1,10 @@
-```
-                          fcuvUQZ                               │  Eliott Valette
-                      lI--<I;l>-)\jf                            │  Graduate student
-                    il!ll;iiI::Iii~}\                           │  HEC Paris x ENSAE
-                 `i>i>l:!!!!lI;;,,ll_{                          │  ML product builder
-                !<++illI!I!l;I;,;:::,>_                         │  Bio/health ML,
-              +<l<li!:!l:,lI,;;:::,`:I~~                        │  real-time web
-            il:!llliI!<,;!;I!:```^``,:!<                        │
-            >~>!:;;IIl,:^^^^`^`^^^^^``I_                        │  I build ML products end
-            !l;:,`:`^I::^`^```^,|r[``,,>                        │  to end, with a focus on
-            <>iI;`^^^^,>+?_l,,l}]]\[,`,i!                       │  bio/health R&D workflows
-             I>[~<~+>~]}[?(j[>[nCmf|>,:l<                       │  and production-ready
-                 xf1!;+~[jr\|}-|(Y|\{<l<_                       │  deployment. Recent work
-                  f1}[+{xr/|/{??1r/\//|})|                      │  includes protein-focused
-                  nXx{|1nf|1){[_+?)|/tftfv                      │  ML pipelines and
-                   Xu/]/tt|}{{[_+_]{)\tfffz*#&%@                │  genomics-driven modeling.
-                     !_]+])}?__~><+?{(\//tmho*#&%BB@$           │  RL and 3D simulation are
-                       ))/)[_<>i!<+?})|/jUbhoo*#M&8%B@@         │  personal interests; I also
-                        xj}~i~)+_??]}{)|fZkha*#MMWW&&8%B@       │  ship interactive web
-                         _ncOmYr(}[[[[}}Jdha**Mobko***oo&8      │  experiences with Next.js
-                        *dddwUruX[}}[[}Ymbbo*hOh###****oaoW     │  and Three.js. Pragmatic
-                       &*kdwUznvJ+I_]1YOpqdabm**#*ooooaahhkWQ   │  deployment: Docker on
-                     W*okq0XLYLLCt![uzQmqmdbUhoaoahhokpbkkbbk   │  Ubuntu, CI/CD, and
-       tnxt]         *bbpZCJ0CYOCXYcz0ZmwwdqJkddhbkamwdbhkbwbm  │  reproducible pipelines.
-       >?-_+++_-?[~`oopZZQQ0OQX00LQQw0mOwwpwuwmppkpZwpdhhbdmqp  │
-         }?+~~~~~[{iLkp0UQQmmOJ0QOmdwqZmwwqmvYmpw;il0kodphqQOmL │
-         ]()+~~~~~}{!UqZJCQZmZC0QOqpqqQqOZwmUQbhp_}\wpdkhk0JO0L │
-          {t|~<<~~]({izOJvCOmmQO0ZqqqQQCcY0ZJdao**oo**oohbUJQQU │
-```
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/profile-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/profile-light.svg">
+  <img src="assets/profile-light.svg" alt="ASCII profile card for Eliott Valette">
+</picture>
+
+I build ML products end to end, with a focus on bio/health R&D workflows and production-ready deployment. Recent work includes protein-focused ML pipelines and genomics-driven modeling. RL and 3D simulation are personal interests; I also ship interactive web experiences with Next.js and Three.js. Pragmatic deployment: Docker on Ubuntu, CI/CD, and reproducible pipelines.
 
 ## Highlights
 - [MISTRAL-AI-MCP-HACKATHON](https://github.com/eliottvalette/MISTRAL-AI-MCP-HACKATHON): MCP-first Clash Royale demo for Mistral AI's MCP Hackathon, with a Next.js UI and an MCP agent playing in real time.
